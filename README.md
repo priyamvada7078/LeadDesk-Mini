@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 LeadDesk Mini
+#  LeadDesk Mini
 
 ### Modern Full-Stack Lead Management System
 
